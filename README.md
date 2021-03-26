@@ -28,3 +28,7 @@ LewdBot has been up and under active development since November 2015, making her
 
 To use Lindsey, simply type in `L!help`. This will display a list with all available commands.
 
+{% hint style="info" %}
+Lindsey is currently undergoing a major rewrite, soon the entire bot will be replaced with a new codebase that _has a control panel and several new features_ \(as well as the old ones!\). Please bear with us while we work on this new and improved version.
+{% endhint %}
+
